@@ -1,7 +1,7 @@
 {
-  "name": "yourbot",
+  "name": "QEEN SITHU 🧚",
   "version": "1.0.0",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "QEEN SITHU 🧚 Created By King Sithuwa 💋",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name wabot",
